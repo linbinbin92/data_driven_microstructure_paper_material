@@ -15,7 +15,7 @@ This repository contains the files that have been developed in the publication :
 6. Permutation.py and HowmanySimulationAreSufficient.py load the neccesary data and performs the sensitivity study.
 
 
-Disclaimer: This information should provide a guidline of reproduction of the results obtained in the mentioned publication. Due to complexity and different softwares used, no guarantee are provided. However if you have discovered any bugs, errors or for any questions, please adress to the contact avaiable in the publication.  
+Disclaimer: This information should provide a guidline of reproduction of the results obtained in the mentioned publication. Due to complexity and different softwares used, no guarantee are provided. However if you have discovered any bugs, errors or for any questions, please adress to the contact available in the publication.  
 
 # Citation
 If you use this repository for a publication, then please cite it using the following bibtex-entry:
